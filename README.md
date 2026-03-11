@@ -140,4 +140,4 @@ Cada avaliação é composta por questões técnicas específicas da competênci
 
 ## Licença
 
-Este projeto foi desenvolvido com fins educacionais e de impacto social, voltado à empregabilidade de trabalhadores da indústria.
+Este projeto foi desenvolvido com fins educacionais e de impacto social, voltado à empregabilidade de trabalhadores da indústria."# oportuna-conecta" 
